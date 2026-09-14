@@ -1,4 +1,4 @@
-// Last updated: 9/14/2026, 8:49:51 PM
+// Last updated: 9/14/2026, 8:50:32 PM
 1class Solution {
 2    public String countAndSay(int n) {
 3        String current = "1";
