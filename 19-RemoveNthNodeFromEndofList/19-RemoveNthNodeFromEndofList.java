@@ -1,4 +1,4 @@
-// Last updated: 9/15/2026, 4:04:03 PM
+// Last updated: 9/15/2026, 4:05:37 PM
 1class Solution {
 2    public ListNode removeNthFromEnd(ListNode head, int n) {
 3        if (head.next == null) return null;
